@@ -1,7 +1,6 @@
 ## Overview
 
-Insurance claims are often the most stressful customer interaction. While Northbridge Insurance provides an online claims pathway, there is an opportunity to improve transparency, guidance, and self-service throughout the journey. [northbridg...surance.ca], [broker.nor...surance.ca]
-Role: UX Designer & Front-End Developer
+Insurance claims are often the most stressful customer interaction. While Northbridge Insurance provides an online claims pathway, there is an opportunity to improve transparency, guidance, and self-service throughout the journey.
 
 Tools: Figma, React, HTML, CSS, JavaScript
 
